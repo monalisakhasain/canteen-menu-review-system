@@ -92,7 +92,7 @@ http://localhost/canteen_project
 
 The project demonstration video can be accessed at:
 
-(Add your YouTube video link here)
+https://www.youtube.com/channel/UCA6UqcSdw6TBrgli9Op-y_w
 
 ---
 
