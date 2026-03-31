@@ -1,0 +1,19 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Node modules (if used later)
+node_modules/
+
+# Vendor files
+vendor/
+
+# Temporary files
+*.tmp
+*.bak
